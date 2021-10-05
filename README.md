@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m currently working on Da-Nei-Wei-Wei project 🔭
+- I’m currently working on [Da-Nei-Wei-Wei](https://test.d3v2d5gigfl1ab.amplifyapp.com/) project 🔭
 - I’m currently learning coding on Lidemy 🌱
 - How to reach me： lliny0214tw@icloud.com 📫  
 
