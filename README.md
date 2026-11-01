@@ -1,4 +1,4 @@
-# Hi, I'm Lindsay Liu 👋
+# Hi, I'm Lindsay 👋
 
 I'm a Frontend Engineer with five years of experience building React and Next.js products, from launching new applications to modernizing existing platforms.
 
