@@ -11,11 +11,10 @@ I'm a Frontend Engineer with five years of experience building React and Next.js
 
 I enjoy making complex workflows easier to use and codebases easier to maintain. I've collaborated with international teams in hybrid and primarily remote environments, including six months working remotely from Japan.
 
-## Selected projects
+## Selected work & contributions
 
-- [Room Allocation Interface](https://github.com/Lindsay0214/ay-next) — Next.js and TypeScript interface with room-allocation logic, reusable numeric inputs, and tests
-- [Deliberative Vote](https://github.com/Lindsay0214/deliberative-vote) — TypeScript application for structured discussion and collaborative voting
-- [Language OS](https://github.com/Lindsay0214/language-os) — A documented system for deliberate language practice and progress tracking
+- **[GuangFuHero — Disaster-relief volunteer project](https://github.com/GuangFuHero/guangfu-hero-web)** — Contributed frontend updates to a community disaster-relief project in Guangfu, Hualien. Selected merged contributions: [Google Sheets-backed banner updates](https://github.com/GuangFuHero/guangfu-hero-web/pull/99), [sidebar feedback](https://github.com/GuangFuHero/guangfu-hero-web/pull/115), and [GA click tracking](https://github.com/GuangFuHero/guangfu-hero-web/pull/121).
+- **[Room Allocation Interface](https://github.com/Lindsay0214/ay-next)** — A focused Next.js and TypeScript frontend exercise with reusable numeric inputs, room-allocation logic, and unit-test examples.
 
 ## Tech stack
 
