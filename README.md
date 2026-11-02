@@ -24,4 +24,4 @@ I enjoy making complex workflows easier to use and codebases easier to maintain.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/lindsay-liu-48a55b152/)
+[Email](mailto:lindsay.liu.dev@icloud.com) · [LinkedIn](https://www.linkedin.com/in/lindsay-liu-48a55b152/)
